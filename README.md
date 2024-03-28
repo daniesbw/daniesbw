@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Daniel Sagastume </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=FullStack+Developer;React%2C+React+Native%2C+Next+JS%2C+and+more...;JavaScript%2C+Python%2C+Java%2C+C%2B%2B" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=FullStack+Developer;React%2C+React+Native%2C+Next+JS%2C+.;JavaScript%2C+Python%2C+Java%2C+C%2B%2B" alt="Typing SVG" /></a>
 </p>
 
 
